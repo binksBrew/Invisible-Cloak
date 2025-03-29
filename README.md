@@ -82,4 +82,3 @@ Imagine wrapping yourself in a red blanket and vanishing in front of the camera!
 
 This project is for educational purposes.  
 Feel free to modify and experiment with it.
-```
